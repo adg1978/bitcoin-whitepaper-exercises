@@ -7,3 +7,6 @@ In these exercises, you will learn about blockchains from the perspective of the
 * [Wallet](wallet/README.md)
 * [Proof of Work](pow/README.md)
 * [Incentives](incentives/README.md)
+
+
+Testing
